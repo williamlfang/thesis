@@ -1,0 +1,185 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: chapters/short.aux
+A level-1 auxiliary file: author/author.aux
+A level-1 auxiliary file: abstracts/cnabstract.aux
+A level-1 auxiliary file: abstracts/enabstract.aux
+A level-1 auxiliary file: chapters/chapter01.aux
+A level-1 auxiliary file: chapters/chapter02.aux
+The style file: GBT7714-2005NLang.bst
+A level-1 auxiliary file: appendix/publications.aux
+A level-1 auxiliary file: appendix/thanks.aux
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Database file #1: reference/tale.bib
+Database file #2: reference/tex.bib
+Database file #3: reference/demography.bib
+format.lab.names is already a type "wizard-defined" function name
+---line 3361 of file GBT7714-2005NLang.bst
+ : function {format.lab.names
+ :                           }                                      %wk
+You can't pop an empty literal stack for entry diebold2006forecasting
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry gibson2010modeling
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry ang2003no
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry monch2008forecasting
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry harvey1993term
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry harvey1993term
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry campbell1987stock
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry cochrane2005bond
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry cochrane2005bond
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry fama1990term
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry clarida2003out
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry piazzesi2010affine
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry nelson1987parsimonious
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry malthus1798essay
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry malthus1798essay
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry malthus1798essay
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry bakshi1994baby
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry bakshi1994baby
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry geanakoplos2004demography
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry modigliani1954utility
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry modigliani1954utility
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry yoo1994age
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry yoo1994age
+while executing---line 3624 of file GBT7714-2005NLang.bst
+Warning--empty journal in dellavigna2005attention
+You can't pop an empty literal stack for entry dellavigna2005attention
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry dellavigna2005attention
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry culbertson1957term
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry modigliani1966innovations
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry modigliani1966innovations
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry black1973pricing
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry black1973pricing
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry vasicek1977equilibrium
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry cox1985theory
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry cox1985theory
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry brennan1979continuous
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry ho1986term
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry ho1986term
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry heath1992bond
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry heath1992bond
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry hull1990pricing
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry litterman1991common
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry balduzzi1998central
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry pearson1994exploiting
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry brigo2007interest
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry brigo2007interest
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry brigo2007interest
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry laurini2010bayesian
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry mcculloch1971measuring
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry vasicek1982term
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry shea1984pitfalls
+while executing---line 3624 of file GBT7714-2005NLang.bst
+Warning--empty journal in svensson1994estimating
+You can't pop an empty literal stack for entry svensson1994estimating
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry svensson1994estimating
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry bis2005
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry bis2005
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry abel2003effects
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry brooks2002asset
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry brooks2002asset
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry poterba2004impact
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry poterba2004impact
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry favero2012demographics
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You can't pop an empty literal stack for entry favero2012demographics
+while executing---line 3624 of file GBT7714-2005NLang.bst
+You've used 40 entries,
+            6888 wiz_defined-function locations,
+            1462 strings with 14778 characters,
+and the built_in function-call counts, 19834 in all, are:
+= -- 1960
+> -- 312
+< -- 33
++ -- 184
+- -- 72
+* -- 1700
+:= -- 2631
+add.period$ -- 123
+call.type$ -- 40
+change.case$ -- 40
+chr.to.int$ -- 40
+cite$ -- 42
+duplicate$ -- 1328
+empty$ -- 2371
+format.name$ -- 170
+if$ -- 4548
+int.to.chr$ -- 1
+int.to.str$ -- 41
+missing$ -- 42
+newline$ -- 211
+num.names$ -- 80
+pop$ -- 269
+preamble$ -- 1
+purify$ -- 40
+quote$ -- 0
+skip$ -- 451
+stack$ -- 0
+substring$ -- 2125
+swap$ -- 80
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 156
+warning$ -- 2
+while$ -- 173
+width$ -- 0
+write$ -- 568
+(There were 61 error messages)
