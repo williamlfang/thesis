@@ -1,0 +1,228 @@
+\begin{thebibliography}{40}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Diebold 和 Li(2006)]{diebold2006forecasting}
+\textnormal{Diebold F~X, Li C}.
+\newblock Forecasting the term structure of government bond yields[J].
+\newblock Journal of Econometrics, 2006, 130(2):337--364.
+
+\bibitem[Gibson 等人(2010)]{gibson2010modeling}
+\textnormal{Gibson R, Lhabitant F~S, Talay D}.
+\newblock Modeling the term structure of interest rates: a review of the
+  literature[J].
+\newblock Foundations and Trends in Finance, 2010, 5(1-2).
+
+\bibitem[Ang 和 Piazzesi(2003)]{ang2003no}
+\textnormal{Ang A, Piazzesi M}.
+\newblock A no-arbitrage vector autoregression of term structure dynamics with
+  macroeconomic and latent variables[J].
+\newblock Journal of Monetary economics, 2003, 50(4):745--787.
+
+\bibitem[Moench(2008)]{monch2008forecasting}
+\textnormal{Moench E}.
+\newblock Forecasting the yield curve in a data-rich environment: A
+  no-arbitrage factor-augmented VAR approach[J].
+\newblock Journal of Econometrics, 2008, 146(1):26--43.
+
+\bibitem[Harvey(1993)]{harvey1993term}
+\textnormal{Harvey C~R}.
+\newblock Term structure forecasts economic growth[J].
+\newblock Financial Analysts Journal, 1993:6--8.
+
+\bibitem[Campbell(1987)]{campbell1987stock}
+\textnormal{Campbell J}.
+\newblock Stock returns and the term structure[J].
+\newblock Journal of financial economics, 1987, 18(2):373--399.
+
+\bibitem[Cochrane 和 Piazzesi(2005)]{cochrane2005bond}
+\textnormal{Cochrane J, Piazzesi M}.
+\newblock Bond Risk Premia[J].
+\newblock American Economic Review, 2005:138--160.
+
+\bibitem[Fama(1990)]{fama1990term}
+\textnormal{Fama E~F}.
+\newblock Term-structure forecasts of interest rates, inflation and real
+  returns[J].
+\newblock Journal of Monetary Economics, 1990, 25(1):59--76.
+
+\bibitem[Clarida 等人(2003)]{clarida2003out}
+\textnormal{Clarida R~H, Sarno L, Taylor M~P}, et al.
+\newblock The out-of-sample success of term structure models as exchange rate
+  predictors: a step beyond[J].
+\newblock Journal of International Economics, 2003, 60(1):61--83.
+
+\bibitem[Piazzesi(2010)]{piazzesi2010affine}
+\textnormal{Piazzesi M}.
+\newblock Affine term structure models[J].
+\newblock Handbook of financial econometrics, 2010, 1:691--766.
+
+\bibitem[Nelson 和 Siegel(1987)]{nelson1987parsimonious}
+\textnormal{Nelson C~R, Siegel A~F}.
+\newblock Parsimonious Modeling of Yield Curves[J].
+\newblock The Journal of Business, 1987, 60(4):473--489.
+
+\bibitem[Malthus(1798)]{malthus1798essay}
+\textnormal{Malthus T~R}.
+\newblock
+\newblock
+\newblock An essay on the principle of population[M].[S.l.]: J. Johnson,
+  London, 1798.
+
+\bibitem[Bakshi 和 Chen(1994)]{bakshi1994baby}
+\textnormal{Bakshi G~S, Chen Z}.
+\newblock Baby boom, population aging, and capital markets[J].
+\newblock Journal of Business, 1994:165--202.
+
+\bibitem[Geanakoplos 等人(2004)]{geanakoplos2004demography}
+\textnormal{Geanakoplos J, Magill M, Quinzii M}.
+\newblock Demography and the long-run predictability of the stock market[J].
+\newblock Brookings Papers on Economic Activity, 2004, 2004(1):241--307.
+
+\bibitem[Modigliani 和 Brumberg(1954)]{modigliani1954utility}
+\textnormal{Modigliani F, Brumberg R}.
+\newblock Utility analysis and the consumption function: An interpretation of
+  cross-section data[J].
+\newblock FRANCO MODIGLIANI, 1954:1.
+
+\bibitem[Yoo(1994)]{yoo1994age}
+\textnormal{Yoo P~S}.
+\newblock Age distributions and returns of financial assets[J].
+\newblock Federal Reserve Bank of St. Louis Working Paper Series, 1994.
+
+\bibitem[DellaVigna 和 Pollet(2005)]{dellavigna2005attention}
+\textnormal{DellaVigna S, Pollet J~M}.
+\newblock Attention, demographics, and the stock market[J].
+\newblock 2005.
+
+\bibitem[Culbertson(1957)]{culbertson1957term}
+\textnormal{Culbertson J~M}.
+\newblock The term structure of interest rates[J].
+\newblock The Quarterly Journal of Economics, 1957, 71(4):485--517.
+
+\bibitem[Modigliani 和 Sutch(1966)]{modigliani1966innovations}
+\textnormal{Modigliani F, Sutch R}.
+\newblock Innovations in interest rate policy[J].
+\newblock The American Economic Review, 1966:178--197.
+
+\bibitem[Black 和 Scholes(1973)]{black1973pricing}
+\textnormal{Black F, Scholes M}.
+\newblock The pricing of options and corporate liabilities[J].
+\newblock The journal of political economy, 1973:637--654.
+
+\bibitem[Vasicek(1977)]{vasicek1977equilibrium}
+\textnormal{Vasicek O~A}.
+\newblock An equilibrium characterization of the term structure[J].
+\newblock Journal of financial economics, 1977, 5(2):177--188.
+
+\bibitem[Cox 等人(1985)]{cox1985theory}
+\textnormal{Cox J~C, Ingersoll~Jr J~E, Ross S~A}.
+\newblock A theory of the term structure of interest rates[J].
+\newblock Econometrica: Journal of the Econometric Society, 1985:385--407.
+
+\bibitem[Brennan 和 Schwartz(1979)]{brennan1979continuous}
+\textnormal{Brennan M~J, Schwartz E~S}.
+\newblock A continuous time approach to the pricing of bonds[J].
+\newblock Journal of Banking \& Finance, 1979, 3(2):133--155.
+
+\bibitem[Ho 和 Lee(1986)]{ho1986term}
+\textnormal{Ho T~S~Y, Lee S~B}.
+\newblock Term structure movements and pricing interest rate contingent
+  claims[J].
+\newblock Journal of Finance, 1986:1011--1029.
+
+\bibitem[Heath 等人(1992)]{heath1992bond}
+\textnormal{Heath D, Jarrow R, Morton A}.
+\newblock Bond pricing and the term structure of interest rates: A new
+  methodology for contingent claims valuation[J].
+\newblock Econometrica: Journal of the Econometric Society, 1992:77--105.
+
+\bibitem[Hull 和 White(1990)]{hull1990pricing}
+\textnormal{Hull J, White A}.
+\newblock Pricing interest-rate-derivative securities[J].
+\newblock Review of financial studies, 1990, 3(4):573--592.
+
+\bibitem[Litterman 和 Scheinkman(1991)]{litterman1991common}
+\textnormal{Litterman R~B, Scheinkman J}.
+\newblock Common factors affecting bond returns[J].
+\newblock The Journal of Fixed Income, 1991, 1(1):54--61.
+
+\bibitem[Balduzzi 等人(1998)]{balduzzi1998central}
+\textnormal{Balduzzi P, Das S~R, Foresi S}.
+\newblock The Central Tendency: A Second Factor In Bond Yields[J].
+\newblock The Review of Economics and Statistics, 1998, 80(1):62--72.
+
+\bibitem[Pearson 和 Sun(1994)]{pearson1994exploiting}
+\textnormal{Pearson N~D, Sun T~S}.
+\newblock Exploiting the conditional density in estimating the term structure:
+  An application to the Cox, Ingersoll, and Ross model[J].
+\newblock The Journal of Finance, 1994, 49(4):1279--1304.
+
+\bibitem[Brigo 和 Mercurio(2007)]{brigo2007interest}
+\textnormal{Brigo D, Mercurio F}.
+\newblock
+\newblock
+\newblock Interest rate models-theory and practice: with smile, inflation and
+  credit[M].[S.l.]: Springer, 2007.
+
+\bibitem[Laurini 和 Hotta(2010)]{laurini2010bayesian}
+\textnormal{Laurini M~P, Hotta L~K}.
+\newblock Bayesian extensions to diebold-li term structure model[J].
+\newblock International Review of Financial Analysis, 2010, 19(5):342--350.
+
+\bibitem[McCulloch(1971)]{mcculloch1971measuring}
+\textnormal{McCulloch J~H}.
+\newblock Measuring the term structure of interest rates[J].
+\newblock The Journal of Business, 1971, 44(1):19--31.
+
+\bibitem[Vasicek 和 Fong(1982)]{vasicek1982term}
+\textnormal{Vasicek O~A, Fong G~H}.
+\newblock Term structure modeling using exponential splines[J].
+\newblock The Journal of Finance, 1982, 37(2):339--348.
+
+\bibitem[Shea(1984)]{shea1984pitfalls}
+\textnormal{Shea G~S}.
+\newblock Pitfalls in smoothing interest rate term structure data: Equilibrium
+  models and spline approximations[J].
+\newblock Journal of Financial and Quantitative Analysis, 1984,
+  19(03):253--269.
+
+\bibitem[Svensson(1994)]{svensson1994estimating}
+\textnormal{Svensson L~E}.
+\newblock Estimating and interpreting forward interest rates: Sweden
+  1992-1994[J].
+\newblock 1994.
+
+\bibitem[BIS(2005)]{bis2005}
+\textnormal{BIS}.
+\newblock Zero-Coupon Yield Curves: Technical Documentation[J].
+\newblock Bank for International Settlements, Basle, 2005.
+
+\bibitem[Abel(2003)]{abel2003effects}
+\textnormal{Abel A~B}.
+\newblock The Effects of a Baby Boom on Stock Prices and Capital Accumulation
+  in the Presence of Social Security[J].
+\newblock Econometrica, 2003, 71(2):551.
+
+\bibitem[Brooks(2002)]{brooks2002asset}
+\textnormal{Brooks R}.
+\newblock Asset-market effects of the baby boom and social-security reform[J].
+\newblock American Economic Review, 2002:402--406.
+
+\bibitem[Poterba(2004)]{poterba2004impact}
+\textnormal{Poterba J~M}.
+\newblock
+\newblock The Impact of Population Aging on Financial Markets[C]//Global
+  demographic change: economic impacts and policy challenges: Jackson Hole,
+  Wyoming, August 26-28, 2004: a symposium.
+\newblock .[S.l.]: [s.n.] , 2004:163.
+
+\bibitem[Favero 等人(2012)]{favero2012demographics}
+\textnormal{Favero C~A, Gozluklu A~E, Yang H}.
+\newblock Demographics and the Behavior of Interest Rates[J].
+\newblock IGIER Working Papers, 2012.
+
+\end{thebibliography}
