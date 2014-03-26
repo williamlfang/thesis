@@ -1,0 +1,15 @@
+% !Mode:: "TeX:UTF-8"
+\chapter{03}
+This should be entirely bold: {\boldmath$O(\log n)$} \\
+This should not be bold: $\boldmath{O(\log n)}$
+
+{\boldmath$O(\log n)$}
+
+This is bold and italic $\mathbf{O(\log n)}+\mathbf{O(\lambda,\,\epsilon)}$ where $\mathbf{(\theta, \alpha)}$
+
+银行账户（Bank Account），也称做货币市场账户，指的是市场投资者将资金投放在一个具有较低风险性质、同时具有较高流动性功能的短期账户。我们用$B(t)$来表示该账户随时间变化的动态轨迹，则
+\begin{align}
+\mbox{连续时间\qquad} \mathbf{dB(t)} &= r_t B(t) dt, \label{bank-account}\\
+\mbox{离散时间\qquad}  B(t + \Delta t) &= B(t) (1 + r_t \Delta t), 
+\end{align}
+其中，$r_t$为短期利率水平。相对离散时间模型而言，连续时间模型在数学建模上更为复杂，但它能够提供充分的特性来得到更精确的理论解和更精练的经验假设。鉴于篇幅所限，本文将主要讨论在连续时间状态下的利率建模问题。

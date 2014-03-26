@@ -2,13 +2,11 @@
 
  \nomgroup{A}
 
-  \item [{$f_t{(\tau)}$}]\begingroup 在~$t$~时刻的到期期限是~$\tau$~ 的远期利率\nomeqref {2.13}
-		\nompageref{12}
-  \item [{$MY_t$}]\begingroup 一个社会总人口中的中年人口与青年人口的总数比值\nomeqref {2.26}
-		\nompageref{25}
-  \item [{$P_t{(\tau)}$}]\begingroup 在~$t$~时刻的到期期限是~$\tau$~ 的贴现债券价格\nomeqref {2.12}
-		\nompageref{12}
-  \item [{$y_t{(\tau)}$}]\begingroup 在~$t$~时刻的到期期限是~$\tau$~ 的到期收益率\nomeqref {2.12}
+  \item [{$MY_t$}]\begingroup 一个社会总人口中的中年人口与青年人口的总数比值\nomeqref {2.32}
+		\nompageref{27}
+  \item [{$P_t{(\tau )}$}]\begingroup 在~$t$~时刻的到期期限是~$\tau $~ 的贴现债券价格\nomeqref {2.15}
+		\nompageref{13}
+  \item [{$T \mapsto Y(T)$}]\begingroup 期限结构，指的是一个变量与其在不同到期日之间的函数一一映射关系，\nomeqref {2.12}
 		\nompageref{12}
 
 \end{thenomenclature}

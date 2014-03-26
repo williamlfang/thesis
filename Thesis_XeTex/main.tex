@@ -5,6 +5,14 @@
 \include{config/william}
 
 \usepackage{paralist}
+
+
+%%
+\usepackage{unicode-math}  %% [bold-style=ISO]
+\setmathfont{Cambria Math}
+
+%%
+
 \begin{document}
 %% 确保zhspacing需要的符号定义没有被其他宏包改掉
 \def\lq{`}\def\rq{'}
@@ -93,6 +101,7 @@
 %% 读入各章节
 \include{chapters/chapter01}
 \include{chapters/chapter02}
+\include{chapters/chapter03}
 %% 参考文献
   % 使用 BibTeX
    %\bibliographystyle{plainnat}

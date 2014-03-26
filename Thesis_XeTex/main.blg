@@ -7,6 +7,7 @@ A level-1 auxiliary file: abstracts/cnabstract.aux
 A level-1 auxiliary file: abstracts/enabstract.aux
 A level-1 auxiliary file: chapters/chapter01.aux
 A level-1 auxiliary file: chapters/chapter02.aux
+A level-1 auxiliary file: chapters/chapter03.aux
 The style file: GBT7714-2005NLang.bst
 A level-1 auxiliary file: appendix/publications.aux
 A level-1 auxiliary file: appendix/thanks.aux
@@ -143,7 +144,7 @@ You can't pop an empty literal stack for entry favero2012demographics
 while executing---line 3624 of file GBT7714-2005NLang.bst
 You've used 40 entries,
             6888 wiz_defined-function locations,
-            1462 strings with 14778 characters,
+            1463 strings with 14800 characters,
 and the built_in function-call counts, 19834 in all, are:
 = -- 1960
 > -- 312
